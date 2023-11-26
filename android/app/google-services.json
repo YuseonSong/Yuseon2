@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "524129112575",
+    "project_id": "quickdraw-30743",
+    "storage_bucket": "quickdraw-30743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524129112575:android:e9602946c230d1ca5117ca",
+        "android_client_info": {
+          "package_name": "com.Yuseon.Ysjolp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524129112575-0jrupm57upn7lk43q4hp0pcgk0gsvenc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Yuseon.Ysjolp",
+            "certificate_hash": "1912477839f774440d8a436c852daf3586482d92"
+          }
+        },
+        {
+          "client_id": "524129112575-ejitg2obe1k0ldrpsln5b6kma6gadaq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Yuseon.Ysjolp",
+            "certificate_hash": "a73fd818f8adb96f65a094492ce8a64ffc8486b6"
+          }
+        },
+        {
+          "client_id": "524129112575-th2grqvp9tcni1h1gqv1ldv9c8jvajkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD71BEbQ6SCGErj6L-rHyUYjLWY7SIuIfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524129112575-th2grqvp9tcni1h1gqv1ldv9c8jvajkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
